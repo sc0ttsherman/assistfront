@@ -3,7 +3,9 @@
 <!-- Above is important for html5 -->
 
 <?php 
-  echo "<h2>this is a test</h2>";
+  echo "<h2>Hello World!</h2>";
+  
+  echo "this is important";
 
   //test
 ?>
@@ -31,6 +33,8 @@
   <i class="fas fa-square fa-stack-2x"></i>
   <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
 </span>
+
+<i class = "fas fa-poop fa-3x" style="color:brown"></i>
 
 Hello World! 
 <i class="fas fa-check"></i>
